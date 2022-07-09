@@ -13,6 +13,7 @@ const App = () => {
 	const [searchValue, setSearchValue] = useState('');
 
 	const getMovieRequest = async (searchValue) => {
+		//API key. The API gives us an array of films back when the search is performed. 
 		const url = `http://www.omdbapi.com/?s=${searchValue}&apikey=657adb4f`;
 
 		const response = await fetch(url);

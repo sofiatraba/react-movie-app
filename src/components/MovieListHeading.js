@@ -1,5 +1,7 @@
 import React from 'react';
 
+//Add Netflix-style like headings
+
 const MovieListHeading = (props) => {
 	return (
 		<div className='col'>

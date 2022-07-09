@@ -1,3 +1,11 @@
+This project is for the JavaScript frameworks project.
+
+I wanted to practice with requests and APIs while giving the project a Netflix sort of vibe. We are using postman for the requests to the IMDb and Bootstrap for the styling.
+
+The idea is to have a stored list of favourites that do not disappear after closing and running the app again. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

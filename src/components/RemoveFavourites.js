@@ -1,5 +1,6 @@
 import React from 'react';
 
+//Remove favourites component. The removed film will no longer be in the favourites array
 const RemoveFavourites = () => {
 	return (
 		<>

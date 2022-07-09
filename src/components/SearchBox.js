@@ -1,5 +1,6 @@
 import React from 'react';
 
+//SearchBox for the films
 const SearchBox = (props) => {
 	return (
 		<div className='col col-sm-4'>
