@@ -1,4 +1,4 @@
-This project is for the JavaScript frameworks project.
+This project is for the JavaScript frameworks course.
 
 I wanted to practice with requests and APIs while giving the project a Netflix sort of vibe. We are using postman for the requests to the IMDb and Bootstrap for the styling.
 
